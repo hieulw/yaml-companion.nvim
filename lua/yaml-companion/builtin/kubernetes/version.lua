@@ -1,3 +1,0 @@
--- AUTOMATICALLY GENERATED
--- DO NOT EDIT
-return "v1.29.3"
